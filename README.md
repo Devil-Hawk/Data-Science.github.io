@@ -2,6 +2,7 @@
 
 ### Education
 Data Science, MS
+
 Computer Science Engineering, B.Tech
 
 ### Experience 
