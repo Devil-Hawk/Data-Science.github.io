@@ -1,9 +1,9 @@
 # Data Science and Machine Learning Enthusiast
 
 ### Education
-Data Science, MS
+- Data Science, MS
 
-Computer Science Engineering, B.Tech
+- Computer Science Engineering, B.Tech
 
 ### Experience 
 ML Intern @ Allsoft Solutions and Services Private Limited (_February 2023_)
@@ -20,6 +20,7 @@ Accenture North America Data Analytics and Visualization Job Simulation on Forag
 stakeholders.
 
 BCG Data Science Job Simulation on Forage (_July 2024_)
+
 - Led customer churn analysis for XYZ Analytics, employing Python (Pandas, NumPy) for efficient data analysis 
 and visualization.
 - Engineered a high-accuracy random forest model (85%) to predict customer churn.
