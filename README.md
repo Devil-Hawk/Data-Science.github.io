@@ -35,9 +35,9 @@ making processes and business outcomes.
 
 ### Projects
 Churn Analysis on Tableau | EDA, Tableau (_June 2024_)
-• Created an interactive Tableau dashboard for 10,000 data points, enhancing data -driven insights.
-• Visualized key metrics and trends to improve stakeholder understanding of customer behavior.
-• Leveraged advanced Tableau features for clear and effective data presentation.
+- Created an interactive Tableau dashboard for 10,000 data points, enhancing data -driven insights.
+- Visualized key metrics and trends to improve stakeholder understanding of customer behavior.
+- Leveraged advanced Tableau features for clear and effective data presentation.
 
 Fraudulent Job Prediction | Python, scikit-learn, NumPy , pandas , Git, gensim (_December 2023_)
 - Designed a model to improve job posting authenticity, detecting fakes with 20% higher accuracy.
