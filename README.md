@@ -16,11 +16,13 @@ Accenture North America Data Analytics and Visualization Job Simulation on Forag
 - Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
 - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal 
 stakeholders.
+
 BCG Data Science Job Simulation on Forage (_July 2024_)
 - Led customer churn analysis for XYZ Analytics, employing Python (Pandas, NumPy) for efficient data analysis 
 and visualization.
 - Engineered a high-accuracy random forest model (85%) to predict customer churn.
 - Delivered actionable insights via a concise executive summary to the Associate Director, enhancing decision - making capabilities.
+  
 Getting Started with Enterprise Data Science, IBM (_August 2021_)
 - Earned the IBM SkillsBuild for Academia Badge in "Getting Started with Enterprise Data Science"
 - Mastered IBM Watson Studio and Data Refinery for proficient data ingestion, exploration, and visualization.
