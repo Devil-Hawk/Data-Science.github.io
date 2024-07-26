@@ -1,6 +1,4 @@
-# AnkitPunjabi.github.io
-
-Data Science and Machine Learning Enthusiast
+# Data Science and Machine Learning Enthusiast
 
 ### Education
 Data Science, MS
