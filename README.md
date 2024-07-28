@@ -6,12 +6,14 @@
 - Computer Science Engineering, B.Tech
 
 ### Experience 
+
 ML Intern @ Allsoft Solutions and Services Private Limited (_February 2023_)
 - Built a face detection Attendance System using Python and OpenCV 
 - Developed a Machine Learning model achieving 95% image classification accuracy
 - Automaed Attendance System tracking for daily 500+ users with a real-time database
 
 ### Certifications
+
 Accenture North America Data Analytics and Visualization Job Simulation on Forage (_July 2024_)
 
 - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
@@ -35,6 +37,7 @@ making processes and business outcomes.
 
 ### Projects
 Churn Analysis on Tableau | EDA, Tableau (_June 2024_)
+
 - Created an interactive Tableau dashboard for 10,000 data points, enhancing data -driven insights.
 - Visualized key metrics and trends to improve stakeholder understanding of customer behavior.
 - Leveraged advanced Tableau features for clear and effective data presentation.
@@ -48,11 +51,13 @@ LLM API Call Enhancement | (_March 2024_)
 
 
 Fraudulent Job Prediction | Python, scikit-learn, NumPy , pandas , Git, gensim (_December 2023_)
+
 - Designed a model to improve job posting authenticity, detecting fakes with 20% higher accuracy.
 - Enhanced precision and recall by 15% with RandomSearchCV hyperparameter tuning.
 - Achieved second highest F1 score (0.85) among 50+ models for fraudulent job detection
 
 Statistical Analysis using | JMP (_November 2023_)
+
 - Conducted detailed statistical analysis on a dataset with over 1000 cameras using JMP, applying hypothesis testing 
 and advanced statistical techniques to extract meaningful patterns.
 - Revealed significant trends in technology advancement and pricing strategies over time, offering a comprehensive 
@@ -60,6 +65,7 @@ view into the evolving landscape of the camera industry.
 - Generated actionable insights and strategic recommendations for industry stakeholders, enabling informed decision making in response to market changes and consumer behavior trends
 
 ML-Based Sign Language Recognition (_December 2020_)
+
 - Developed a sign language recognition software, utilizing Tensor Flow & OpenCV to accurately interpret complex hand
 gestures.
 - Achieved a remarkable 96% accuracy rate in gesture recognition, significantly enhancing communication accessibility for the deaf and hardof-hearing community.
