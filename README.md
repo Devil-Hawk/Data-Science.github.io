@@ -39,6 +39,14 @@ Churn Analysis on Tableau | EDA, Tableau (_June 2024_)
 - Visualized key metrics and trends to improve stakeholder understanding of customer behavior.
 - Leveraged advanced Tableau features for clear and effective data presentation.
 
+LLM API Call Enhancement | (_March 2024_)
+
+- Enhanced CodeBERT, GraphCodeBERT, and GPT-3.5 for API name prediction, refining techniques from the paper "Do Pre-trained Code Models Possess Knowledge of Correct API Names?".
+- Utilized OpenAI, Hugging Face, pandas, numpy, CodeBERT, GraphCodeBERT, and PLBART to improve model performance.
+- Employed the INK framework and models like CSNet for thorough evaluation, achieving significant improvements in accuracy and generalization.
+- Analyzed large datasets to refine models' understanding of API names, demonstrating strong data interpretation and problem-solving abilities.
+
+
 Fraudulent Job Prediction | Python, scikit-learn, NumPy , pandas , Git, gensim (_December 2023_)
 - Designed a model to improve job posting authenticity, detecting fakes with 20% higher accuracy.
 - Enhanced precision and recall by 15% with RandomSearchCV hyperparameter tuning.
@@ -50,5 +58,11 @@ and advanced statistical techniques to extract meaningful patterns.
 - Revealed significant trends in technology advancement and pricing strategies over time, offering a comprehensive 
 view into the evolving landscape of the camera industry.
 - Generated actionable insights and strategic recommendations for industry stakeholders, enabling informed decision making in response to market changes and consumer behavior trends
+
+ML-Based Sign Language Recognition (_December 2020_)
+- Developed a sign language recognition software, utilizing Tensor Flow & OpenCV to accurately interpret complex hand
+gestures.
+- Achieved a remarkable 96% accuracy rate in gesture recognition, significantly enhancing communication accessibility for the deaf and hardof-hearing community.
+- Leveraged machine learning algorithms to analyze and classify hand gestures, ensuring high precision and real-time interpretation capabilities
 
  
