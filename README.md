@@ -56,7 +56,7 @@ Fraudulent Job Prediction | Python, scikit-learn, NumPy , pandas , Git, gensim (
 - Enhanced precision and recall by 15% with RandomSearchCV hyperparameter tuning.
 - Achieved second highest F1 score (0.85) among 50+ models for fraudulent job detection
 
-Statistical Analysis using | JMP (_November 2023_)
+Statistical Analysis | JMP (_November 2023_)
 
 - Conducted detailed statistical analysis on a dataset with over 1000 cameras using JMP, applying hypothesis testing 
 and advanced statistical techniques to extract meaningful patterns.
