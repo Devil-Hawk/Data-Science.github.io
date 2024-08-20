@@ -8,9 +8,12 @@
 ### Experience 
 
 ML Intern @ Allsoft Solutions and Services Private Limited (_February 2023_)
-- Built a face detection Attendance System using Python and OpenCV 
-- Developed a Machine Learning model achieving 95% image classification accuracy
-- Automaed Attendance System tracking for daily 500+ users with a real-time database
+- Developed a face recognition attendance system with 95% accuracy, improving tracking efficiency by 40% .
+- Built a real-time database using Google Firebase, managing over 10,000 attendance records with 100% uptime.
+- Created an encoding system with OpenCV for secure and accurate identification, reducing false positives by 30%.
+- Automated the integration of 1,000+ attendance records into the database, cutting manual workload by 50%.
+- Implemented a scalable solution that streamlined attendance tracking, enhancing processing speed by 25%.
+
 
 ### Certifications
 
