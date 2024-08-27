@@ -1,6 +1,6 @@
 # Data Science and Machine Learning Enthusiast
-# [GitHub](https://github.com/Devil-Hawk)
-# [LinkedIn](https://www.linkedin.com/in/ankit-punjabi/)
+# [GitHub](https://github.com/Devil-Hawk) | [LinkedIn](https://www.linkedin.com/in/ankit-punjabi/)
+
 ### Education
 - Data Science, MS
 
