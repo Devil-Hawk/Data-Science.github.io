@@ -6,7 +6,17 @@
 
 - Computer Science Engineering, B.Tech
 
-### Experience 
+### Experience
+
+
+##Rochester Institute of Technology	Rochester, NY
+Graduate Teaching Assistant – Foundations of Data Science	(_January 2025 – Present_)
+
+
+Graduate Teaching Assistant – Database Design and Implementation	(_January 2025 – Present_)
+- Orchestrated the development of scalable SQL databases tailored to industry benchmarks, increasing proficiency in SQL across 17 students.
+- Addressed complex database challenges through personalized assistance, elevating technical aptitude and improving class performance metrics by 15%.
+- Assessed and optimized weekly projects, enhancing quality and providing actionable feedback, resulting in a 23.4% improvement in student outcomes.
 
 ML Intern @ Allsoft Solutions and Services Private Limited (_February 2023_)
 - Developed a face recognition attendance system with 95% accuracy, improving tracking efficiency by 40% .
@@ -40,6 +50,12 @@ making processes and business outcomes.
 
 
 ### Projects
+
+Stock Market Prediction and Analysis | (_December 2024_)
+- Built Logistic Regression, ARIMA, and Bayesian models for stock trend forecasting, boosting accuracy by 20% during high-volatility periods.
+- Visualized key drivers in Tableau to guide investment decisions.Analyzed 138M+ news comments and historical stock prices with SQL and NLP techniques like TF-IDF, identifying market drivers and optimizing data pipelines for 30% faster insights.
+- Engaged with a project advisor to present data-driven insights and incorporate feedback into stock market predictive models, ensuring research objectives were met and analysis aligned with stakeholder expectation
+
 Churn Analysis on Tableau | EDA, Tableau (_June 2024_)
 
 - Created an interactive Tableau dashboard for 10,000 data points, enhancing data -driven insights.
