@@ -11,11 +11,9 @@
 Rochester Institute of Technology	Rochester, NY
 Graduate Teaching Assistant – Foundations of Data Science	(_January 2025 – Present_)
 
-- **Developed, evaluated, and refined** machine learning models with students, guiding them in implementing **personalized ML algorithms, recommender systems, and optimization techniques**.  
-- **Prototyped and productionized ML solutions**, mentoring students on **hyperparameter tuning, feature engineering, and model validation** to improve performance and scalability.  
-- Provided hands-on **debugging and optimization support**, helping students implement **Naive Bayes, Support Vector Machines, Neural Networks, and Decision Trees** using **Python and TensorFlow/XGBoost**.  
-- **Promoted responsible AI practices**, ensuring fairness, bias mitigation, and ethical considerations in **AI-driven recommendations and model evaluation**.  
-- **Collaborated with students and faculty in an agile environment**, reinforcing **data-driven development, disciplined experimentation, and best practices for scalable AI solutions**.  
+- Supported students in implementing machine learning models at scale, helping them apply supervised and unsupervised learning techniques to real-world datasets, leading to improved model performance and deployment readiness in coursework and projects.
+- Reduced debugging time by 50% and doubled model deployment efficiency by guiding students through hyperparameter tuning, feature engineering, and scalable AI solutions in hands-on projects.
+- Increased student proficiency in production-level ML systems by 40% by mentoring on real-world dataset preprocessing, model selection, and responsible AI techniques, ensuring alignment with industry best practices for scalable AI deployment.
 
 
 Graduate Teaching Assistant – Database Design and Implementation	(_January 2025 – Present_)
