@@ -8,8 +8,7 @@
 
 ### Experience
 
-
-##Rochester Institute of Technology	Rochester, NY
+Rochester Institute of Technology	Rochester, NY
 Graduate Teaching Assistant – Foundations of Data Science	(_January 2025 – Present_)
 
 - **Developed, evaluated, and refined** machine learning models with students, guiding them in implementing **personalized ML algorithms, recommender systems, and optimization techniques**.  
